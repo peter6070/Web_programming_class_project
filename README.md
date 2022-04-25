@@ -1,2 +1,2 @@
 # Web_programming_class_project
-eulji university medical IT Web programming class project
+Eulji University Medical IT Department - Web programming class project
